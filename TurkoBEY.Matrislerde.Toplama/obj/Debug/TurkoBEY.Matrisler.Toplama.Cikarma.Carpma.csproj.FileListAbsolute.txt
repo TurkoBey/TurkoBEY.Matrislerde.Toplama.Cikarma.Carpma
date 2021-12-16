@@ -1,0 +1,9 @@
+C:\Users\ROOT\Desktop\C# Projeler ÇORUM\TurkoBEY.Matrislerde.Toplama\TurkoBEY.Matrislerde.Toplama\bin\Debug\TurkoBEY Matris Toplama Cikarma Carpma.exe.config
+C:\Users\ROOT\Desktop\C# Projeler ÇORUM\TurkoBEY.Matrislerde.Toplama\TurkoBEY.Matrislerde.Toplama\bin\Debug\TurkoBEY Matris Toplama Cikarma Carpma.exe
+C:\Users\ROOT\Desktop\C# Projeler ÇORUM\TurkoBEY.Matrislerde.Toplama\TurkoBEY.Matrislerde.Toplama\bin\Debug\TurkoBEY Matris Toplama Cikarma Carpma.pdb
+C:\Users\ROOT\Desktop\C# Projeler ÇORUM\TurkoBEY.Matrislerde.Toplama\TurkoBEY.Matrislerde.Toplama\obj\Debug\TurkoBEY.Matrisler.Toplama.Cikarma.Carpma.Form1.resources
+C:\Users\ROOT\Desktop\C# Projeler ÇORUM\TurkoBEY.Matrislerde.Toplama\TurkoBEY.Matrislerde.Toplama\obj\Debug\TurkoBEY.Matris.Toplama.Cikarma.Carpma.Properties.Resources.resources
+C:\Users\ROOT\Desktop\C# Projeler ÇORUM\TurkoBEY.Matrislerde.Toplama\TurkoBEY.Matrislerde.Toplama\obj\Debug\TurkoBEY.Matrisler.Toplama.Cikarma.Carpma.csproj.GenerateResource.cache
+C:\Users\ROOT\Desktop\C# Projeler ÇORUM\TurkoBEY.Matrislerde.Toplama\TurkoBEY.Matrislerde.Toplama\obj\Debug\TurkoBEY.Matrisler.Toplama.Cikarma.Carpma.csproj.CoreCompileInputs.cache
+C:\Users\ROOT\Desktop\C# Projeler ÇORUM\TurkoBEY.Matrislerde.Toplama\TurkoBEY.Matrislerde.Toplama\obj\Debug\TurkoBEY Matris Toplama Cikarma Carpma.exe
+C:\Users\ROOT\Desktop\C# Projeler ÇORUM\TurkoBEY.Matrislerde.Toplama\TurkoBEY.Matrislerde.Toplama\obj\Debug\TurkoBEY Matris Toplama Cikarma Carpma.pdb
